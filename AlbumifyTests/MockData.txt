@@ -1,0 +1,216 @@
+{
+	"feed": {
+		"title": "Top Albums",
+		"id": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json",
+		"author": {
+			"name": "Apple",
+			"url": "https://www.apple.com/"
+		},
+		"links": [{
+			"self": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/10/albums.json"
+		}],
+		"copyright": "Copyright © 2022 Apple Inc. All rights reserved.",
+		"country": "us",
+		"icon": "https://www.apple.com/favicon.ico",
+		"updated": "Sun, 13 Feb 2022 14:09:12 +0000",
+		"results": [{
+			"artistName": "Lin-Manuel Miranda, Germaine Franco, Stephanie Beatriz, Olga Merediz \u0026 Jessica Darrow",
+			"id": "1594677532",
+			"name": "Encanto (Original Motion Picture Soundtrack)",
+			"releaseDate": "2021-11-19",
+			"kind": "albums",
+			"artistId": "329027198",
+			"artistUrl": "https://music.apple.com/us/artist/lin-manuel-miranda/329027198",
+			"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/94/4d/9a/944d9a8d-0549-f537-5706-5b083bd84a7d/21UM1IM38949.rgb.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}, {
+				"genreId": "16",
+				"name": "Soundtrack",
+				"url": "https://itunes.apple.com/us/genre/id16"
+			}],
+			"url": "https://music.apple.com/us/album/encanto-original-motion-picture-soundtrack/1594677532"
+		}, {
+			"artistName": "Gunna",
+			"id": "1604944424",
+			"name": "DRIP SEASON 4EVER",
+			"releaseDate": "2022-01-07",
+			"kind": "albums",
+			"artistId": "123626a7297",
+			"artistUrl": "https://music.apple.com/us/artist/gunna/1236267297",
+			"contentAdvisoryRating": "Explict",
+			"artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Music116/v4/e6/52/54/e6525474-f011-257e-04b7-12ecbae264e1/810043689519.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "18",
+				"name": "Hip-Hop/Rap",
+				"url": "https://itunes.apple.com/us/genre/id18"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/drip-season-4ever/1604944424"
+		}, {
+			"artistName": "YoungBoy Never Broke Again",
+			"id": "1607411220",
+			"name": "Colors",
+			"releaseDate": "2022-01-21",
+			"kind": "albums",
+			"artistId": "1168822104",
+			"artistUrl": "https://music.apple.com/us/artist/youngboy-never-broke-again/1168822104",
+			"contentAdvisoryRating": "Explict",
+			"artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/03/77/19/03771916-31b7-4ec4-6173-fdb4b4a4eae7/075679757272.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "18",
+				"name": "Hip-Hop/Rap",
+				"url": "https://itunes.apple.com/us/genre/id18"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/colors/1607411220"
+		}, {
+			"artistName": "Yo Gotti",
+			"id": "1607595067",
+			"name": "CM10: Free Game (Deluxe)",
+			"releaseDate": "2022-02-04",
+			"kind": "albums",
+			"artistId": "62763238",
+			"artistUrl": "https://music.apple.com/us/artist/yo-gotti/62763238",
+			"contentAdvisoryRating": "Explict",
+			"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music116/v4/7f/13/fc/7f13fca5-e341-b416-ddd2-47eca9d15c72/886449863600.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "18",
+				"name": "Hip-Hop/Rap",
+				"url": "https://itunes.apple.com/us/genre/id18"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/cm10-free-game-deluxe/1607595067"
+		}, {
+			"artistName": "Jazmine Sullivan",
+			"id": "1609166290",
+			"name": "Heaux Tales, Mo' Tales: The Deluxe",
+			"releaseDate": "2021-01-08",
+			"kind": "albums",
+			"artistId": "27880734",
+			"artistUrl": "https://music.apple.com/us/artist/jazmine-sullivan/27880734",
+			"contentAdvisoryRating": "Explict",
+			"artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/84/61/d8/8461d84f-41f7-e724-e63d-0933bcefb87e/886449835133.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "15",
+				"name": "R\u0026B/Soul",
+				"url": "https://itunes.apple.com/us/genre/id15"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/heaux-tales-mo-tales-the-deluxe/1609166290"
+		}, {
+			"artistName": "Drake",
+			"id": "1584281467",
+			"name": "Certified Lover Boy",
+			"releaseDate": "2021-09-03",
+			"kind": "albums",
+			"artistId": "271256",
+			"artistUrl": "https://music.apple.com/us/artist/drake/271256",
+			"contentAdvisoryRating": "Explict",
+			"artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/11/36/38/1136384a-eebc-697a-c005-d890e41c0854/21UM1IM07518.rgb.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "18",
+				"name": "Hip-Hop/Rap",
+				"url": "https://itunes.apple.com/us/genre/id18"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/certified-lover-boy/1584281467"
+		}, {
+			"artistName": "The Weeknd",
+			"id": "1603171516",
+			"name": "Dawn FM",
+			"releaseDate": "2022-01-07",
+			"kind": "albums",
+			"artistId": "479756766",
+			"artistUrl": "https://music.apple.com/us/artist/the-weeknd/479756766",
+			"contentAdvisoryRating": "Explict",
+			"artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Music126/v4/2f/22/a9/2f22a9a6-5af1-5846-a44e-ba016724ed69/21UM1IM58860.rgb.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "15",
+				"name": "R\u0026B/Soul",
+				"url": "https://itunes.apple.com/us/genre/id15"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/dawn-fm/1603171516"
+		}, {
+			"artistName": "Junior H",
+			"id": "1608886676",
+			"name": "Mi Vida En Un Cigarro 2",
+			"releaseDate": "2022-02-11",
+			"kind": "albums",
+			"artistId": "1442059565",
+			"artistUrl": "https://music.apple.com/us/artist/junior-h/1442059565",
+			"artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music126/v4/36/d7/fe/36d7fefa-82aa-96e6-a557-d7851048b42e/190296227486.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "12",
+				"name": "Latin",
+				"url": "https://itunes.apple.com/us/genre/id12"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/mi-vida-en-un-cigarro-2/1608886676"
+		}, {
+			"artistName": "Summer Walker",
+			"id": "1590029262",
+			"name": "Still Over It",
+			"releaseDate": "2021-11-05",
+			"kind": "albums",
+			"artistId": "990402287",
+			"artistUrl": "https://music.apple.com/us/artist/summer-walker/990402287",
+			"contentAdvisoryRating": "Explict",
+			"artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/f0/8c/bf/f08cbffc-1101-f974-a2d3-38381d8ed506/21UM1IM23130.rgb.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "15",
+				"name": "R\u0026B/Soul",
+				"url": "https://itunes.apple.com/us/genre/id15"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/still-over-it/1590029262"
+		}, {
+			"artistName": "Mary J. Blige",
+			"id": "1604654340",
+			"name": "Good Morning Gorgeous",
+			"releaseDate": "2022-02-11",
+			"kind": "albums",
+			"artistId": "1392280",
+			"artistUrl": "https://music.apple.com/us/artist/mary-j-blige/1392280",
+			"contentAdvisoryRating": "Explict",
+			"artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music116/v4/ff/7d/1e/ff7d1e81-a51b-09d8-a010-4350622cd9bb/810043687966.jpg/100x100bb.jpg",
+			"genres": [{
+				"genreId": "15",
+				"name": "R\u0026B/Soul",
+				"url": "https://itunes.apple.com/us/genre/id15"
+			}, {
+				"genreId": "34",
+				"name": "Music",
+				"url": "https://itunes.apple.com/us/genre/id34"
+			}],
+			"url": "https://music.apple.com/us/album/good-morning-gorgeous/1604654340"
+		}]
+	}
+}
